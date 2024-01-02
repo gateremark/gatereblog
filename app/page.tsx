@@ -53,11 +53,11 @@ export default function Home() {
         },
     ];
     return (
-        <main className="bg-gradient-to-b from-[#d6dbdc] to-[#ffffff] h-full">
+        <main className="bg-gradient-to-b from-[#d6dbdc] to-[#ffffff] h-full ">
             <Nav />
             <div className="px-4 py-4">
                 <div className="mx-auto grid grid-cols-1 gap-8 md:grid-flow-col md:grid-cols-2 md:grid-rows-2 xl:grid-cols-3 xl:px-10 xl:py-10 2xl:px-24 2xl:py-10">
-                    <div className="md:px-8 px-4 flex flex-col items-center col-span-1 md:row-span-2 xl:col-span-2 border border-solid border-slate-400 hover:border-slate-600 rounded-xl">
+                    <div className="md:px-8 px-4 flex flex-col items-center col-span-1 md:row-span-2 xl:col-span-2 border border-solid border-slate-400 hover:border-slate-600 rounded-xl transition-all duration-200 ease-in-out">
                         {" "}
                         <h1 className="text-2xl font-semibold">
                             Featured Blog 1
@@ -69,7 +69,7 @@ export default function Home() {
                         </p>
                         <p className="text-sm text-gray-600">2021-07-04</p>
                     </div>
-                    <div className="md:px-8 px-4 flex flex-col items-center col-span-1 border border-solid border-slate-400 hover:border-slate-600 rounded-xl">
+                    <div className="md:px-8 px-4 flex flex-col items-center col-span-1 border border-solid border-slate-400 hover:border-slate-600 rounded-xl transition-all duration-200 ease-in-out">
                         {" "}
                         <h1 className="text-2xl font-semibold">
                             Featured Blog 2
@@ -81,7 +81,7 @@ export default function Home() {
                         </p>
                         <p className="text-sm text-gray-600">2021-07-04</p>
                     </div>
-                    <div className="md:px-8 px-4 flex flex-col items-center col-span-1 border border-solid border-slate-400 hover:border-slate-600 rounded-xl">
+                    <div className="md:px-8 px-4 flex flex-col items-center col-span-1 border border-solid border-slate-400 hover:border-slate-600 rounded-xl transition-all duration-200 ease-in-out">
                         {" "}
                         <h1 className="text-2xl font-semibold">
                             Featured Blog 3
