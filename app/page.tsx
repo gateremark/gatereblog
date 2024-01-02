@@ -45,7 +45,8 @@ export default function Home() {
                         <p className="text-sm text-gray-600">2021-07-04</p>
                     </div>
                 </div>
-                <div className=" flex flex-col w-full items-center gap-4 pt-5 pb-6">
+                <hr className=" border border-solid border-[#000000] my-5" />
+                <div className=" flex flex-col w-full items-center gap-4 md:pt-2 pb-6 px-0 lg:px-56 md:px-40 sm:px-20 xl:px-72">
                     {blogData.map((blog) => (
                         <BlogCard
                             key={blog.slug}
