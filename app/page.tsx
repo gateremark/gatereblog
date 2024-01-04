@@ -2,7 +2,7 @@ import Nav from "./components/Nav";
 import BlogCard from "./components/BlogCard";
 import { blogData } from "./components/BlogData";
 
-export default function Home() {
+export default async function Home() {
     return (
         <main className="bg-gradient-to-b from-[#d6dbdc] to-[#ffffff] h-full ">
             <Nav />
