@@ -1,8 +1,8 @@
 ---
-title: Python from the word ...Go
-datePosted: May 24, 2022
-dateUpdated: Jun 27, 2022
-image: https://res.cloudinary.com/practicaldev/image/fetch/s--IREhjX26--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4i466ovwzbp4axpnab6.jpeg
+title: "Python from the word ...Go"
+datePosted: "May 24, 2022"
+dateUpdated: "Jun 27, 2022"
+image: "https://res.cloudinary.com/practicaldev/image/fetch/s--IREhjX26--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4i466ovwzbp4axpnab6.jpeg"
 ---
 
 **_<u>Basics Part1</u>_**
